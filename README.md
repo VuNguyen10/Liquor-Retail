@@ -2,7 +2,7 @@
 
 <h2><span style="border: 1px solid; padding: 4px;">1.</span> Objective</h2>
 <p>
-   Recruitment data is a collection of information related to human resource recruitment, aimed at providing both workers and businesses with an overview of the labor market situation.
+   
 </p>
 
 <h2><span style="border: 1px solid; padding: 4px;">2.</span> Approach</h2>
