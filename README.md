@@ -10,7 +10,7 @@
    <li><strong>Data Processing:</strong> Using the Pandas and Seaborn libraries to cleaning and exploration data.</li>
    <li><strong>Data Warehouse:</strong> Create Dimension and Fact tables and load the cleaned data into them.</li>
    <li><strong>Data Visualization:</strong> Connect Power BI to MySQL Workbench to create visual reports.</li>
-   <li><strong>Decision-Making:</strong> Analyze the reports to gain a more visual insight into the labor market, in order to support workers in making better decisions.</li>
+   <li><strong>Decision-Making:</strong>Analyze reports to assess the business situation over time, enabling informed decisions about future business strategies.</li>
 </ul>
 
 <h2><span style="border: 1px solid; padding: 4px;">3.</span> Result</h2>
