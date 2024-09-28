@@ -2,7 +2,7 @@
 
 <h2><span style="border: 1px solid; padding: 4px;">1.</span> Objective</h2>
 <p>
-   
+   The liquor retail project is a data analysis initiative focused on examining a company's revenue and profits over time. By analyzing reports, we can better understand the business performance and develop more effective business strategies for the future.
 </p>
 
 <h2><span style="border: 1px solid; padding: 4px;">2.</span> Approach</h2>
