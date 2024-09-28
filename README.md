@@ -15,7 +15,7 @@
 
 <h2><span style="border: 1px solid; padding: 4px;">3.</span> Result</h2>
 <p>
-  
+  Revenue and profits have both grown significantly, approximately 30% compared to the previous year. The business performance in the second half of the year was better than in the first half, with the highest revenue recorded in October. The top three best-selling products are Canadian Whiskies, Vodka 80 proof, and Spiced Rum. The city with the best business performance is Des Moines.
 </p>
 <p>
   
