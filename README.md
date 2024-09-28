@@ -23,17 +23,13 @@
 </p>
 
 <p align="center">
-  <img src="Image/Overview.jpg" alt="Recruitment Dashboard" width="100%">
-  <br><strong>Image 1:</strong> Overview of Recruitment Dashboard
+  <img src="Image/Sales.jpg" alt="Liquor Retail Dashboard" width="100%">
+  
 </p>
 
 <p align="center">
-  <img src="Image/Salary.jpg" alt="Recruitment Dashboard" width="100%">
-  <br><strong>Image 2:</strong> Salary Insights from Recruitment Dashboard
+  <img src="Image/Profit.jpg" alt="Liquor Retail Dashboard" width="100%">
+  
 </p>
 
-<p align="center">
-  <img src="Image/Employee.jpg" alt="Recruitment Dashboard" width="100%">
-  <br><strong>Image 3:</strong> Employee Data from Recruitment Dashboard
-</p>
 
